@@ -10,7 +10,7 @@ package framework;
 public class Browser {
 
 	/**
-	 * @param args
+	 * @param args alll parameters
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
